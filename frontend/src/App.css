@@ -1,0 +1,50 @@
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-container {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .product-info {
+    margin-bottom: 20px;
+  }
+  
+  .product-name {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .product-price {
+    font-size: 18px;
+    color: #337ab7;
+  }
+  
+  .product-rating {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .product-discount {
+    font-size: 16px;
+    color: #337ab7;
+  }
+  
+  .product-availability {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .company-info {
+    margin-top: 40px;
+    font-size: 14px;
+    color: #666;
+  }
